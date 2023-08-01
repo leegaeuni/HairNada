@@ -41,10 +41,10 @@ FrameWork : Mybatis
 <img width="1000" alt="스크린샷 2023-08-01 오전 10 33 00" src="https://github.com/pandang-test/jspProject02/assets/126428434/0244eb12-f640-4b0a-87c7-e3c2cda02518">
 
 ## 페이지 미리보기
-|메인페이지|헤어샵&관리샵|헤어스타일 목록|제품 목록|커뮤니티 페이지|마이페이지|구매페이지|
+|메인페이지|헤어샵&관리샵|헤어스타일 목록|제품 상세|커뮤니티 페이지|마이페이지|구매페이지|
 |------|---|---|----|----|----|----|
 |<img width="100" alt="메인페이지" src="https://github.com/pandang-project/pandang/assets/126428434/82f88933-4704-4955-a326-ef4ad1bea7aa">|<img width="100" alt="SNS페이지" src="https://github.com/pandang-project/pandang/assets/126428434/55e4755b-5beb-4d5f-bf3e-7d0c6dc1cf89">|<img width="100" alt="SNS게시글상세보기" src="https://github.com/pandang-project/pandang/assets/126428434/6eda3cbd-abd5-40fa-b6ac-21ae65764a8f">|<img width="100" alt="스토어게시글상세" src="https://github.com/pandang-project/pandang/assets/126428434/9e4cb7de-9fb7-46bf-8563-aeb14103364a">|<img width="100" alt="상품목록" src="https://github.com/pandang-test/jspProject02/assets/126428434/527d220e-6fc8-4a01-b07a-389076608166">|<img width="100" alt="마이페이지" src="https://github.com/pandang-project/pandang/assets/126428434/2ea279ce-a34a-415e-a040-edfc2eae5c49">|<img width="100" alt="구메페이지" src="https://github.com/pandang-project/pandang/assets/126428434/03889b0d-c82c-4d92-9a03-ea329249e339">|
-|메인 페이지|전문샵 목록|헤어스타일 목록|제품 목록|사용자들간 소통 가능|내 정보 수정 가능|api연결을 통한 상품 구매|
+|메인 페이지|전문샵 목록|헤어스타일 목록|제품 정보 조회기능, 장바구니 및 구매 가능|사용자들간 소통 가능|내 정보 수정 가능|api연결을 통한 상품 구매|
 
 ## 담당 페이지
 - 관리자 로그인 [WIKI 이동](https://github.com/leegaeuni/pandang/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(SNS-%ED%8E%98%EC%9D%B4%EC%A7%80)) <br>
