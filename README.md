@@ -45,12 +45,12 @@ FrameWork : SpringBoot
 |메인 페이지|전문샵 목록|헤어스타일 목록|제품 정보 조회기능, 장바구니 및 구매 가능|사용자들간 소통 가능|내 정보 수정 가능|api연결을 통한 상품 구매|
 
 ## 담당 페이지
-- 관리자 로그인 [WIKI 이동](https://github.com/leegaeuni/pandang/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(SNS-%ED%8E%98%EC%9D%B4%EC%A7%80)) <br>
-- 회원 관리 [WIKI 이동](https://github.com/leegaeuni/pandang/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(SNS-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0)) <br/>
-- 회원 등급 관리 [WIKI 이동](https://github.com/leegaeuni/pandang/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%8A%A4%ED%86%A0%EC%96%B4-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0)) <br/>
-- 회원 등급 관리 상세 [WIKI 이동](https://github.com/leegaeuni/pandang/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%8A%A4%ED%86%A0%EC%96%B4-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0)) <br/>
-- 제품 목록 [WIKI 이동](https://github.com/leegaeuni/pandang/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%8A%A4%ED%86%A0%EC%96%B4-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0)) <br/>
-- 제품 등록 [WIKI 이동](https://github.com/leegaeuni/pandang/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%8A%A4%ED%86%A0%EC%96%B4-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0)) <br/>
+- 관리자 로그인 [WIKI 이동](https://github.com/leegaeuni/HairNada/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EA%B4%80%EB%A6%AC%EC%9E%90-%EB%A1%9C%EA%B7%B8%EC%9D%B8)) <br/>
+- 회원 목록 [WIKI 이동](https://github.com/leegaeuni/HairNada/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%ED%9A%8C%EC%9B%90-%EA%B4%80%EB%A6%AC)) <br/>
+- 회원 등급 관리 [WIKI 이동](https://github.com/leegaeuni/HairNada/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%ED%9A%8C%EC%9B%90-%EB%93%B1%EA%B8%89-%EA%B4%80%EB%A6%AC)) <br/>
+- 회원 등급 관리 상세 [WIKI 이동](https://github.com/leegaeuni/HairNada/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%ED%9A%8C%EC%9B%90-%EB%93%B1%EA%B8%89-%EA%B4%80%EB%A6%AC-%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80)) <br/>
+- 제품 목록 [WIKI 이동](https://github.com/leegaeuni/HairNada/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%A0%9C%ED%92%88-%EB%AA%A9%EB%A1%9D)) <br/>
+- 제품 등록 [WIKI 이동](https://github.com/leegaeuni/HairNada/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%A0%9C%ED%92%88-%EB%93%B1%EB%A1%9D-%EB%B0%8F-%EC%88%98%EC%A0%95)) <br/>
 - 헤어스타일 목록 [WIKI 이동](https://github.com/leegaeuni/pandang/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%8A%A4%ED%86%A0%EC%96%B4-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0)) <br/>
 - 헤어스타일 등록 [WIKI 이동](https://github.com/leegaeuni/pandang/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%8A%A4%ED%86%A0%EC%96%B4-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0)) <br/>
 - 배송 관리 [WIKI 이동](https://github.com/leegaeuni/pandang/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%8A%A4%ED%86%A0%EC%96%B4-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0)) <br/>
