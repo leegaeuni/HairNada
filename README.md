@@ -52,7 +52,7 @@ FrameWork : SpringBoot
 - 제품 목록 [WIKI 이동](https://github.com/leegaeuni/HairNada/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%A0%9C%ED%92%88-%EB%AA%A9%EB%A1%9D)) <br/>
 - 제품 등록 [WIKI 이동](https://github.com/leegaeuni/HairNada/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%A0%9C%ED%92%88-%EB%93%B1%EB%A1%9D-%EB%B0%8F-%EC%88%98%EC%A0%95)) <br/>
 - 헤어스타일 목록 [WIKI 이동](https://github.com/leegaeuni/HairNada/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%AA%A9%EB%A1%9D)) <br/>
-- 헤어스타일 등록 [WIKI 이동](https://github.com/leegaeuni/pandang/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%8A%A4%ED%86%A0%EC%96%B4-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0)) <br/>
+- 헤어스타일 등록 [WIKI 이동](https://github.com/leegaeuni/HairNada/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%8A%A4%ED%83%80%EC%9D%BC-%EB%93%B1%EB%A1%9D-%EB%B0%8F-%EC%88%98%EC%A0%95)) <br/>
 - 배송 관리 [WIKI 이동](https://github.com/leegaeuni/pandang/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%8A%A4%ED%86%A0%EC%96%B4-%EA%B2%8C%EC%8B%9C%EA%B8%80-%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0)) <br/>
 
 
