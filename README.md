@@ -28,7 +28,7 @@
 
  ## 사용 기술
 JDK 11.0.16 <br/>
-IDE : InteliJ <br/>
+IDE : IntelliJ <br/>
 Database : Oracle <br/>
 FrameWork : SpringBoot
 
